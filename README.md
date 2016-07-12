@@ -1,6 +1,7 @@
 updater - check update for cli tools you created
 =======
 [![](https://godoc.org/github.com/Code-Hex/updater?status.svg)](http://godoc.org/github.com/Code-Hex/updater)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Code-Hex/updater)](https://goreportcard.com/report/github.com/Code-Hex/updater)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 ## Installation
 
@@ -8,7 +9,7 @@ updater - check update for cli tools you created
 
 ## Synopsis
 
-    update.Check...(Your organization, Your project name, now version...)
+    updater.Check...(Your organization, Your project name, now version...)
 
 ## Example
 CheckWithTag using release tag
